@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<title>Source of paging-filtering</title>
+	<nodes>
+		<node icon="classpathIcon" label="src" expanded="true">
+			<node icon="packageIcon" label="com.scripts" expanded="true">
+				<node icon="actionScriptIcon" label="globalscript.as" url="source/com/scripts/globalscript.as.html"/>
+			</node>
+			<node icon="mxmlAppIcon" selected="true" label="main.mxml" url="source/main.mxml.html"/>
+		</node>
+	</nodes>
+</index>
